@@ -1,4 +1,4 @@
-<h1>EXPERIMENT NO 08: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+# EXPERIMENT NO 08: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic 
 <h3>Name: Rithiga Sri.B</h3>
 <h3>Register Number : 212221230083</h3>
 
